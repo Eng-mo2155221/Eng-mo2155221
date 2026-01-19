@@ -1,7 +1,7 @@
 # Hi there, I'm Mohamed Mahmoud 👋  
 
 [![GitHub followers](https://img.shields.io/github/followers/Eng-mo2155221?style=for-the-badge&logo=github)](https://github.com/Eng-mo2155221)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin)]([www.linkedin.com/in/mohamed-mahmoud-a106b5390](https://www.linkedin.com/in/mohamed-mahmoud-a106b5390/?trk=public-profile-join-page))
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/mohamed-mahmoud-a106b5390/?trk=public-profile-join-page)
 [![Twitter](https://img.shields.io/twitter/follow/your-handle?style=for-the-badge&logo=x)](https://twitter.com/your-handle)
 
 ---
