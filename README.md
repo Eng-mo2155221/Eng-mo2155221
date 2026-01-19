@@ -28,10 +28,9 @@
 ---
 
 ### 📫 Connect with Me
-- GitHub: [Eng-mo2155221](https://github.com/Eng-mo2155221)  
-- [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/mohamed-mahmoud-a106b5390/?trk=public-profile-join-page)
-
-- Email:mohamedmahmoud2155221@gmail.com 
+[![GitHub](https://img.shields.io/badge/-GitHub-black?style=for-the-badge&logo=github)](https://github.com/Eng-mo2155221)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/mohamed-mahmoud-a106b5390/?trk=public-profile-join-page)
+- **Email:** mohamedmahmoud2155221@gmail.com
 
 ---
 
